@@ -20,8 +20,8 @@ To write a program to implement the multivariate linear regression model for sal
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: R.Hemapriya
-RegisterNumber: 212221230036 
+Developed by: Sucharithachowdary
+RegisterNumber: 212221240021 
 */
 
 import pandas as pd
